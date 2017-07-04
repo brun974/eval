@@ -1,0 +1,39 @@
+
+.jumbotron	{
+     background:url(../images/bg_header.jpg) no-repeat center center;
+       height: 800px;
+       background-size:100% 100%;
+        color: #fff; }
+  header .jumbotron h1 {
+    width: 550px;
+    margin-left: 360px; }
+    header .jumbotron h1 span {
+      font-weight: bold; }
+
+.text-center p {
+  font-size: 500px;
+  margin-top:-100px;
+  padding-left: 100px; 
+   }
+
+.nom {
+  color: #000;
+  margin-left: 250px;
+  margin-top: -5px;
+  font-size:20px; 
+
+}
+  h1 {
+
+	  width: center;
+      padding-left:0;
+
+}
+
+#bout {
+  background: url(../images/bg_nuage.jpg);
+  margin-left: 0 auto;
+  width: 1600px;
+  height: 1500px;
+  background-size: 100% 100%;
+   }
